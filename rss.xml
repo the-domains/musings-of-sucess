@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Musings of Sucess]]></title>
         <description><![CDATA[Musings of Sucess]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/musings-of-sucess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 19:12:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 19:54:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/musings-of-sucess/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>It all came so easy -- Porsches, women, helicopters</p>]]></description>
-            <link>undefineda1f11a1b-e917-447c-8cce-5359b867ebe3/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc5860c6-ecc1-4387-9e3b-05340a00e7d7.jpg">]]></description>
+            <link>https://thegrid.ai/musings-of-sucess/a1f11a1b-e917-447c-8cce-5359b867ebe3/index.html</link>
             <guid isPermaLink="false">a1f11a1b-e917-447c-8cce-5359b867ebe3</guid>
-            <pubDate>Wed, 09 Mar 2016 19:10:55 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 19:53:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
